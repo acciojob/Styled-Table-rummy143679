@@ -1,1 +1,8 @@
 /* your code */
+th{
+	background-color:navajowhite;
+	color:rgba(200,150,0,5)
+}
+tr:nth-child(2n+2){
+	background-color:gray;
+}
